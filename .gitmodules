@@ -33,3 +33,8 @@
 	url = https://github.com/stephenslab/susier
 	shallow = true
 	registered = true
+[submodule "NNLM"]
+	path = NNLM
+	url = https://github.com/linxihui/NNLM
+	shallow = true
+	registered = false

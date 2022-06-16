@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "EbayesThresh"]
+	path = EbayesThresh
+	url = https://github.com/stephenslab/ebayesthresh
+	shallow = true
+	registered = true
+[submodule "ebnm"]
+	path = ebnm
+	url = https://github.com/stephenslab/ebnm
+	shallow = true
+	registered = true
+[submodule "fastTopics"]
+	path = fastTopics
+	url = https://github.com/stephenslab/fasttopics
+	shallow = true
+	registered = true
+[submodule "mashr"]
+	path = mashr
+	url = https://github.com/stephenslab/mashr
+	shallow = true
+	registered = true
+[submodule "mixsqp"]
+	path = mixsqp
+	url = https://github.com/stephenslab/mixsqp
+	shallow = true
+	registered = true
+[submodule "susieR"]
+	path = susieR
+	url = https://github.com/stephenslab/susier
+	shallow = true
+	registered = true

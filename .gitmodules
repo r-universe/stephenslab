@@ -38,3 +38,13 @@
 	url = https://github.com/linxihui/NNLM
 	shallow = true
 	registered = false
+[submodule "ashr"]
+	path = ashr
+	url = https://github.com/stephens999/ashr
+	shallow = true
+	registered = false
+[submodule "flashr"]
+	path = flashr
+	url = https://github.com/stephenslab/flashr
+	shallow = true
+	registered = false

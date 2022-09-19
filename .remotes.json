@@ -4,29 +4,5 @@
     "url": "https://github.com/linxihui/NNLM",
     "via": ["fastTopics"],
     "from": "fastTopics"
-  },
-  {
-    "package": "ashr",
-    "url": "https://github.com/stephens999/ashr",
-    "via": ["mashr"],
-    "from": "mashr"
-  },
-  {
-    "package": "ashr",
-    "url": "https://github.com/stephens999/ashr",
-    "via": ["mashr", "flashr"],
-    "from": "mashr"
-  },
-  {
-    "package": "ebnm",
-    "url": "https://github.com/stephenslab/ebnm",
-    "via": ["mashr", "flashr"],
-    "from": "mashr"
-  },
-  {
-    "package": "flashr",
-    "url": "https://github.com/stephenslab/flashr",
-    "via": ["mashr"],
-    "from": "mashr"
   }
 ]

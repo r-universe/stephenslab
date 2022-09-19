@@ -1,6 +1,18 @@
 [
   {
+    "package": "EbayesThresh",
+    "oncran": true
+  },
+  {
+    "package": "ebnm",
+    "oncran": true
+  },
+  {
     "package": "fastTopics",
+    "oncran": true
+  },
+  {
+    "package": "mashr",
     "oncran": true
   },
   {

@@ -12,20 +12,20 @@
     "from": "mashr"
   },
   {
-    "package": "ashr",
-    "url": "https://github.com/stephens999/ashr",
-    "via": ["mashr", "flashr"],
+    "package": "ebnm",
+    "url": "https://github.com/stephenslab/ebnm",
+    "via": ["mashr"],
     "from": "mashr"
   },
   {
     "package": "ebnm",
     "url": "https://github.com/stephenslab/ebnm",
-    "via": ["mashr", "flashr"],
+    "via": ["mashr", "flashier"],
     "from": "mashr"
   },
   {
-    "package": "flashr",
-    "url": "https://github.com/stephenslab/flashr",
+    "package": "flashier",
+    "url": "https://github.com/willwerscheid/flashier",
     "via": ["mashr"],
     "from": "mashr"
   }

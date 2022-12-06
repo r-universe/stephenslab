@@ -43,8 +43,8 @@
 	url = https://github.com/stephens999/ashr
 	shallow = true
 	registered = false
-[submodule "flashr"]
-	path = flashr
-	url = https://github.com/stephenslab/flashr
+[submodule "flashier"]
+	path = flashier
+	url = https://github.com/willwerscheid/flashier
 	shallow = true
 	registered = false

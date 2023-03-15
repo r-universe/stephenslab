@@ -4,7 +4,7 @@
     "oncran": true
   },
   {
-    "package": "mashr",
+    "package": "ebnm",
     "oncran": true
   },
   {
@@ -12,15 +12,15 @@
     "oncran": true
   },
   {
-    "package": "susieR",
-    "oncran": true
-  },
-  {
-    "package": "ebnm",
+    "package": "mashr",
     "oncran": true
   },
   {
     "package": "mixsqp",
+    "oncran": true
+  },
+  {
+    "package": "susieR",
     "oncran": true
   }
 ]

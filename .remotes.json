@@ -18,12 +18,6 @@
     "from": "mashr"
   },
   {
-    "package": "ebnm",
-    "url": "https://github.com/stephenslab/ebnm",
-    "via": ["mashr", "flashier"],
-    "from": "mashr"
-  },
-  {
     "package": "flashier",
     "url": "https://github.com/willwerscheid/flashier",
     "via": ["mashr"],

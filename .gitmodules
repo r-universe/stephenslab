@@ -1,50 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "EbayesThresh"]
 	path = EbayesThresh
 	url = https://github.com/stephenslab/ebayesthresh
-	shallow = true
-	registered = true
 [submodule "ebnm"]
 	path = ebnm
 	url = https://github.com/stephenslab/ebnm
-	shallow = true
-	registered = true
 [submodule "fastTopics"]
 	path = fastTopics
 	url = https://github.com/stephenslab/fasttopics
-	shallow = true
-	registered = true
 [submodule "mashr"]
 	path = mashr
 	url = https://github.com/stephenslab/mashr
-	shallow = true
-	registered = true
 [submodule "mixsqp"]
 	path = mixsqp
 	url = https://github.com/stephenslab/mixsqp
-	shallow = true
-	registered = true
 [submodule "susieR"]
 	path = susieR
 	url = https://github.com/stephenslab/susier
-	shallow = true
-	registered = true
 [submodule "NNLM"]
 	path = NNLM
 	url = https://github.com/linxihui/NNLM
-	shallow = true
 	registered = false
 [submodule "ashr"]
 	path = ashr
 	url = https://github.com/stephens999/ashr
-	shallow = true
 	registered = false
 [submodule "flashier"]
 	path = flashier
 	url = https://github.com/willwerscheid/flashier
-	shallow = true
 	registered = false

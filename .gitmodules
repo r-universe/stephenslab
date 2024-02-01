@@ -19,6 +19,9 @@
 [submodule "fastTopics"]
 	path = fastTopics
 	url = https://github.com/stephenslab/fasttopics
+[submodule "fastglmpca"]
+	path = fastglmpca
+	url = https://github.com/stephenslab/fastglmpca
 [submodule "flashier"]
 	path = flashier
 	url = https://github.com/willwerscheid/flashier

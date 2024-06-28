@@ -1,5 +1,11 @@
 [
   {
+    "package": "NNLM",
+    "url": "https://github.com/linxihui/NNLM",
+    "via": ["fastTopics"],
+    "from": "fastTopics"
+  },
+  {
     "package": "ashr",
     "url": "https://github.com/stephens999/ashr",
     "via": ["mashr"],

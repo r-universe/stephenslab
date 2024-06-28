@@ -5,6 +5,10 @@
 [submodule "EbayesThresh"]
 	path = EbayesThresh
 	url = https://github.com/stephenslab/ebayesthresh
+[submodule "NNLM"]
+	path = NNLM
+	url = https://github.com/linxihui/NNLM
+	registered = false
 [submodule "ashr"]
 	path = ashr
 	url = https://github.com/stephens999/ashr

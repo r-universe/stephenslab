@@ -16,5 +16,11 @@
     "url": "https://github.com/willwerscheid/flashier",
     "via": ["mashr"],
     "from": "mashr"
+  },
+  {
+    "package": "mr.ash.alpha",
+    "url": "https://github.com/stephenslab/mr.ash.alpha",
+    "via": ["susieR"],
+    "from": "susieR"
   }
 ]

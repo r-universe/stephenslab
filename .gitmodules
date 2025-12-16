@@ -32,6 +32,9 @@
 	path = mr.ash.alpha
 	url = https://github.com/stephenslab/mr.ash.alpha
 	registered = false
+[submodule "smashr"]
+	path = smashr
+	url = https://github.com/stephenslab/smashr
 [submodule "susieR"]
 	path = susieR
 	url = https://github.com/stephenslab/susier

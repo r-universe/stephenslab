@@ -28,10 +28,6 @@
 [submodule "mixsqp"]
 	path = mixsqp
 	url = https://github.com/stephenslab/mixsqp
-[submodule "mr.ash.alpha"]
-	path = mr.ash.alpha
-	url = https://github.com/stephenslab/mr.ash.alpha
-	registered = false
 [submodule "mr.mashr"]
 	path = mr.mashr
 	url = https://github.com/stephenslab/mr.mashr
